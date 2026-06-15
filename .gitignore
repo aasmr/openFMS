@@ -31,3 +31,4 @@ fp-info-cache
 *.csv
 /Hardware/Source/.history
 *.FCBak
+Hardware/PCB/Source/.history/
