@@ -4074,12 +4074,6 @@
 		(uuid "15d5bdee-fd29-44fb-9fb4-c4e89ccf689a")
 	)
 	(junction
-		(at 106.68 52.07)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "2257dbf3-fffe-4363-9100-308d7f4ca32f")
-	)
-	(junction
 		(at 311.15 187.96)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4186,6 +4180,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c715a7af-db43-4dae-b996-adf9b0673568")
+	)
+	(junction
+		(at 106.68 53.34)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "cb5e5e39-f476-4585-aac6-e4b915a33df1")
 	)
 	(junction
 		(at 387.35 49.53)
@@ -4594,16 +4594,6 @@
 			(type default)
 		)
 		(uuid "333d2cde-f3be-493f-8111-8c69fb1a2c1a")
-	)
-	(wire
-		(pts
-			(xy 116.84 53.34) (xy 109.22 53.34)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3472fb24-424c-4ace-8a4c-7451d0cf4407")
 	)
 	(wire
 		(pts
@@ -5057,7 +5047,7 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 52.07) (xy 106.68 52.07)
+			(xy 106.68 53.34) (xy 116.84 53.34)
 		)
 		(stroke
 			(width 0)
@@ -5367,16 +5357,6 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 52.07) (xy 106.68 53.34)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "af0155a0-1675-44e4-87c7-d35a76e8d4f7")
-	)
-	(wire
-		(pts
 			(xy 321.31 57.15) (xy 321.31 53.34)
 		)
 		(stroke
@@ -5577,7 +5557,7 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 48.26) (xy 106.68 52.07)
+			(xy 106.68 48.26) (xy 106.68 53.34)
 		)
 		(stroke
 			(width 0)
@@ -5854,16 +5834,6 @@
 			(type default)
 		)
 		(uuid "f08ea4cb-b39e-40e9-8532-f4908bae1afc")
-	)
-	(wire
-		(pts
-			(xy 109.22 53.34) (xy 109.22 52.07)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f3e7baf1-9fb3-4e03-b963-6d0ffb78084a")
 	)
 	(wire
 		(pts
@@ -8144,7 +8114,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "43af8fbb-8a83-4802-9fbf-37e804bf2fd9")
-		(property "Reference" "C10"
+		(property "Reference" "C7"
 			(at 327.66 180.3399 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8208,7 +8178,7 @@
 		(instances
 			(project "openFMS"
 				(path "/aaeea2c7-bc98-41b6-aa73-c4db520b2dfb"
-					(reference "C10")
+					(reference "C7")
 					(unit 1)
 				)
 			)
@@ -10897,7 +10867,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b2079108-2754-4930-a15d-a66529e3a0fe")
-		(property "Reference" "C7"
+		(property "Reference" "C3"
 			(at 304.8 180.3399 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10961,7 +10931,7 @@
 		(instances
 			(project "openFMS"
 				(path "/aaeea2c7-bc98-41b6-aa73-c4db520b2dfb"
-					(reference "C7")
+					(reference "C3")
 					(unit 1)
 				)
 			)
