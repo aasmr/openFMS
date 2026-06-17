@@ -4188,6 +4188,12 @@
 		(uuid "cb5e5e39-f476-4585-aac6-e4b915a33df1")
 	)
 	(junction
+		(at 166.37 243.84)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ce794f4f-40d4-4da0-9d94-43853df258f5")
+	)
+	(junction
 		(at 387.35 49.53)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4204,6 +4210,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "db928ec1-63d4-47cb-a178-6663a6429b83")
+	)
+	(junction
+		(at 125.73 243.84)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e5fe7388-1da6-4af4-a489-4f066ee4a110")
 	)
 	(junction
 		(at 313.69 187.96)
@@ -4224,12 +4236,12 @@
 		(uuid "fa2cdc2e-b9d7-49a9-a141-df808d5fd02f")
 	)
 	(no_connect
-		(at 370.84 165.1)
-		(uuid "4bf19b8f-18fa-4faa-a8a0-83886c9adb40")
+		(at 370.84 172.72)
+		(uuid "3d3f2f18-51ae-45a3-9a37-afbbecc9a88c")
 	)
 	(no_connect
-		(at 370.84 167.64)
-		(uuid "b28bbc9c-db47-4c26-a265-292e890ff6d3")
+		(at 345.44 177.8)
+		(uuid "62d9eb6f-1880-49b9-89d7-caaee418e0f8")
 	)
 	(no_connect
 		(at 370.84 175.26)
@@ -4607,6 +4619,16 @@
 	)
 	(wire
 		(pts
+			(xy 125.73 243.84) (xy 125.73 247.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "380d2fa2-227d-4eb1-9774-f939436068cb")
+	)
+	(wire
+		(pts
 			(xy 349.25 125.73) (xy 360.68 125.73)
 		)
 		(stroke
@@ -4617,16 +4639,6 @@
 	)
 	(wire
 		(pts
-			(xy 370.84 170.18) (xy 382.27 170.18)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "39a48354-c0c6-4cc4-ba29-0ea6a6c6b140")
-	)
-	(wire
-		(pts
 			(xy 321.31 49.53) (xy 337.82 49.53)
 		)
 		(stroke
@@ -4634,6 +4646,16 @@
 			(type default)
 		)
 		(uuid "39a65fcf-e4f9-47aa-8b7c-994aad2db9f4")
+	)
+	(wire
+		(pts
+			(xy 166.37 255.27) (xy 166.37 259.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "39db28ac-7a79-4fe6-a348-1e37265dd055")
 	)
 	(wire
 		(pts
@@ -4767,6 +4789,16 @@
 	)
 	(wire
 		(pts
+			(xy 370.84 167.64) (xy 382.27 167.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "56beaf7c-e47e-429a-b896-b220f3f27148")
+	)
+	(wire
+		(pts
 			(xy 336.55 125.73) (xy 349.25 125.73)
 		)
 		(stroke
@@ -4897,6 +4929,16 @@
 	)
 	(wire
 		(pts
+			(xy 370.84 170.18) (xy 382.27 170.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "64d4df15-f231-4c63-bb11-f9bead8ab717")
+	)
+	(wire
+		(pts
 			(xy 358.14 148.59) (xy 360.68 148.59)
 		)
 		(stroke
@@ -4937,6 +4979,16 @@
 	)
 	(wire
 		(pts
+			(xy 125.73 224.79) (xy 125.73 231.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "725a6d48-72a3-45ea-9a0c-36a20747e910")
+	)
+	(wire
+		(pts
 			(xy 323.85 172.72) (xy 345.44 172.72)
 		)
 		(stroke
@@ -4954,6 +5006,16 @@
 			(type default)
 		)
 		(uuid "75b68e4c-42a3-4d7c-9041-3e2706f5c027")
+	)
+	(wire
+		(pts
+			(xy 166.37 243.84) (xy 166.37 247.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "768963a8-ec3c-4e10-bfa4-16c528c9343f")
 	)
 	(wire
 		(pts
@@ -5027,6 +5089,16 @@
 	)
 	(wire
 		(pts
+			(xy 166.37 224.79) (xy 166.37 231.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7d85ad46-820b-4a33-a24a-9b88f02f0586")
+	)
+	(wire
+		(pts
 			(xy 274.32 77.47) (xy 274.32 54.61)
 		)
 		(stroke
@@ -5074,6 +5146,16 @@
 			(type default)
 		)
 		(uuid "8d9a104a-b4c3-417f-93c3-912ddc264b04")
+	)
+	(wire
+		(pts
+			(xy 104.14 237.49) (xy 119.38 237.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8dee6934-0bbd-42ca-9ad5-754ef07c2b3a")
 	)
 	(wire
 		(pts
@@ -5337,6 +5419,16 @@
 	)
 	(wire
 		(pts
+			(xy 144.78 237.49) (xy 160.02 237.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "aba888e5-05b3-4fe5-8ee3-90591e7ed02b")
+	)
+	(wire
+		(pts
 			(xy 321.31 53.34) (xy 321.31 49.53)
 		)
 		(stroke
@@ -5387,6 +5479,26 @@
 	)
 	(wire
 		(pts
+			(xy 125.73 255.27) (xy 125.73 259.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b15f3270-170f-4109-99c6-0f1f3b4d771f")
+	)
+	(wire
+		(pts
+			(xy 166.37 243.84) (xy 182.88 243.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b1aef6b6-3392-4495-ad6d-d67ea963ec04")
+	)
+	(wire
+		(pts
 			(xy 300.99 172.72) (xy 300.99 177.8)
 		)
 		(stroke
@@ -5434,6 +5546,16 @@
 			(type default)
 		)
 		(uuid "bba14a36-1385-4f31-b43c-1d5ed809fc07")
+	)
+	(wire
+		(pts
+			(xy 381 165.1) (xy 370.84 165.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bec416f1-467f-4188-ab93-9fb1d42ee0da")
 	)
 	(wire
 		(pts
@@ -5517,6 +5639,16 @@
 	)
 	(wire
 		(pts
+			(xy 125.73 243.84) (xy 140.97 243.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cb6ad159-ff00-4db9-b6e2-75871afd4aa4")
+	)
+	(wire
+		(pts
 			(xy 265.43 199.39) (xy 265.43 203.2)
 		)
 		(stroke
@@ -5544,16 +5676,6 @@
 			(type default)
 		)
 		(uuid "d383e750-ccce-4891-a411-99a87ca566cb")
-	)
-	(wire
-		(pts
-			(xy 335.28 177.8) (xy 345.44 177.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d4ab72af-2205-42db-8401-c01987080806")
 	)
 	(wire
 		(pts
@@ -5607,6 +5729,16 @@
 	)
 	(wire
 		(pts
+			(xy 166.37 241.3) (xy 166.37 243.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dad9f772-f6b9-4e34-969a-4d5e49c53e67")
+	)
+	(wire
+		(pts
 			(xy 300.99 172.72) (xy 306.07 172.72)
 		)
 		(stroke
@@ -5634,16 +5766,6 @@
 			(type default)
 		)
 		(uuid "dba0767e-345a-45e2-b4b3-e7e01b565e6e")
-	)
-	(wire
-		(pts
-			(xy 370.84 172.72) (xy 382.27 172.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "dd7b34a4-9dac-436d-9353-411b1249bbbb")
 	)
 	(wire
 		(pts
@@ -5867,6 +5989,16 @@
 	)
 	(wire
 		(pts
+			(xy 125.73 241.3) (xy 125.73 243.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f63e091f-0129-4b49-9099-f021596f4c0b")
+	)
+	(wire
+		(pts
 			(xy 323.85 137.16) (xy 336.55 137.16)
 		)
 		(stroke
@@ -5935,6 +6067,16 @@
 		)
 		(uuid "07497e49-2977-4acb-a525-254e91b8fbf7")
 	)
+	(label "PA4_SIG"
+		(at 182.88 243.84 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "0cfa0855-7451-45b4-81d7-cb29a3cd0a2c")
+	)
 	(label "HALL_OUT"
 		(at 327.66 58.42 0)
 		(effects
@@ -5975,16 +6117,6 @@
 		)
 		(uuid "270c5200-dea9-4d08-9748-7ac7d177d52e")
 	)
-	(label "HALL_OUT"
-		(at 335.28 177.8 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "27f128d5-c5f5-4c45-b6e3-c1d2aa720818")
-	)
 	(label "MOTION_SIG"
 		(at 104.14 182.88 0)
 		(effects
@@ -5995,6 +6127,16 @@
 		)
 		(uuid "2abe9daa-8dca-436f-adf1-cdd23e66fe11")
 	)
+	(label "PA4_SIG"
+		(at 82.55 34.29 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "33106dbf-8572-406b-bc8e-1080451fb517")
+	)
 	(label "FILAMENT_SIG"
 		(at 384.81 162.56 180)
 		(effects
@@ -6004,16 +6146,6 @@
 			(justify right bottom)
 		)
 		(uuid "350157a4-2438-4051-bfa9-7857cc61cc04")
-	)
-	(label "PA5"
-		(at 382.27 172.72 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "35ab7ef3-5f4d-4a46-ae24-09059d382ca2")
 	)
 	(label "SWDIO"
 		(at 314.96 231.14 180)
@@ -6044,6 +6176,36 @@
 			(justify right bottom)
 		)
 		(uuid "4c53607e-3a29-4aaf-ba89-f3414eec965f")
+	)
+	(label "PA3_SIG"
+		(at 140.97 243.84 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "56ae7b79-5ddf-464a-90b2-7ead49d1afca")
+	)
+	(label "PA4"
+		(at 144.78 237.49 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "58cc1b3a-7b1b-4496-bfef-16416ad21e9b")
+	)
+	(label "HALL_OUT"
+		(at 381 165.1 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "5b215c71-adf0-40c2-9ab1-398f5c1dfc9e")
 	)
 	(label "MOTION_SENS"
 		(at 140.97 189.23 180)
@@ -6095,17 +6257,7 @@
 		)
 		(uuid "88ba5b57-236b-4ba8-ba33-b46f56105b6a")
 	)
-	(label "PA5"
-		(at 82.55 34.29 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "8d23eb18-adad-4433-a061-c19878e68273")
-	)
-	(label "PA4"
+	(label "PA3_SIG"
 		(at 82.55 31.75 180)
 		(effects
 			(font
@@ -6113,7 +6265,7 @@
 			)
 			(justify right bottom)
 		)
-		(uuid "956c1018-5b7e-421f-8190-71b7eccec145")
+		(uuid "9dda5f09-b403-4ea4-88a1-fb83f7057a67")
 	)
 	(label "MOTION_SIG"
 		(at 384.81 160.02 180)
@@ -6155,6 +6307,16 @@
 		)
 		(uuid "ba248fcf-2e6a-4329-8555-5b5acb5cefca")
 	)
+	(label "PA3"
+		(at 382.27 167.64 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "bf432d00-9ec5-42b3-99fd-85fe08ad47ea")
+	)
 	(label "NRST"
 		(at 275.59 186.69 180)
 		(effects
@@ -6184,6 +6346,16 @@
 			(justify left bottom)
 		)
 		(uuid "c835cb48-29ea-4d86-aa97-9178586de36c")
+	)
+	(label "PA3"
+		(at 104.14 237.49 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "cb0f108d-27c1-496e-ae90-5f78b1b7cc18")
 	)
 	(label "I2C_SCL"
 		(at 382.27 180.34 180)
@@ -6576,7 +6748,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0a6e5abd-a01d-4d68-bc4e-e3fc2d7bb3b5")
-		(property "Reference" "#PWR042"
+		(property "Reference" "#PWR046"
 			(at 372.11 82.55 0)
 			(hide yes)
 			(show_name no)
@@ -6636,7 +6808,85 @@
 		(instances
 			(project "openFMS"
 				(path "/aaeea2c7-bc98-41b6-aa73-c4db520b2dfb"
-					(reference "#PWR042")
+					(reference "#PWR046")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:VCC")
+		(at 125.73 224.79 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0e2e5e63-6c27-4419-8a24-7907e1f77916")
+		(property "Reference" "#PWR020"
+			(at 125.73 228.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "VCC"
+			(at 125.73 219.71 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 125.73 224.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 125.73 224.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"VCC\""
+			(at 125.73 224.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "cb0cab3c-db3c-4ae7-8590-d52b11899ef3")
+		)
+		(instances
+			(project "openFMS"
+				(path "/aaeea2c7-bc98-41b6-aa73-c4db520b2dfb"
+					(reference "#PWR020")
 					(unit 1)
 				)
 			)
@@ -6654,7 +6904,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "10a8c928-be93-478a-9232-2aeaeaccd17b")
-		(property "Reference" "#PWR040"
+		(property "Reference" "#PWR044"
 			(at 358.14 208.28 0)
 			(hide yes)
 			(show_name no)
@@ -6714,7 +6964,7 @@
 		(instances
 			(project "openFMS"
 				(path "/aaeea2c7-bc98-41b6-aa73-c4db520b2dfb"
-					(reference "#PWR040")
+					(reference "#PWR044")
 					(unit 1)
 				)
 			)
@@ -6732,7 +6982,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "154b5f08-a686-4378-8245-9dcde7455296")
-		(property "Reference" "#PWR027"
+		(property "Reference" "#PWR031"
 			(at 265.43 179.07 0)
 			(hide yes)
 			(show_name no)
@@ -6792,7 +7042,7 @@
 		(instances
 			(project "openFMS"
 				(path "/aaeea2c7-bc98-41b6-aa73-c4db520b2dfb"
-					(reference "#PWR027")
+					(reference "#PWR031")
 					(unit 1)
 				)
 			)
@@ -6810,7 +7060,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1a4aa507-1bf5-4ff8-bc89-08c807d22b00")
-		(property "Reference" "#PWR045"
+		(property "Reference" "#PWR049"
 			(at 387.35 165.1 0)
 			(hide yes)
 			(show_name no)
@@ -6870,7 +7120,7 @@
 		(instances
 			(project "openFMS"
 				(path "/aaeea2c7-bc98-41b6-aa73-c4db520b2dfb"
-					(reference "#PWR045")
+					(reference "#PWR049")
 					(unit 1)
 				)
 			)
@@ -7055,7 +7305,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2170adaf-fc9d-481a-a119-28eff8412a62")
-		(property "Reference" "R8"
+		(property "Reference" "R9"
 			(at 168.91 195.5799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7119,7 +7369,7 @@
 		(instances
 			(project "openFMS"
 				(path "/aaeea2c7-bc98-41b6-aa73-c4db520b2dfb"
-					(reference "R8")
+					(reference "R9")
 					(unit 1)
 				)
 			)
@@ -7137,7 +7387,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "225754c4-8df3-435d-aa85-9c738b8a9e17")
-		(property "Reference" "R10"
+		(property "Reference" "R12"
 			(at 267.97 179.0699 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7201,7 +7451,7 @@
 		(instances
 			(project "openFMS"
 				(path "/aaeea2c7-bc98-41b6-aa73-c4db520b2dfb"
-					(reference "R10")
+					(reference "R12")
 					(unit 1)
 				)
 			)
@@ -7368,6 +7618,84 @@
 		)
 	)
 	(symbol
+		(lib_id "power:VCC")
+		(at 166.37 224.79 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "283383ec-aa4d-416c-96c3-795be500d0ca")
+		(property "Reference" "#PWR027"
+			(at 166.37 228.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "VCC"
+			(at 166.37 219.71 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 166.37 224.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 166.37 224.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"VCC\""
+			(at 166.37 224.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "d8c994b8-ec6b-41f7-a7b6-3748357350cc")
+		)
+		(instances
+			(project "openFMS"
+				(path "/aaeea2c7-bc98-41b6-aa73-c4db520b2dfb"
+					(reference "#PWR027")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GNDREF")
 		(at 60.96 83.82 0)
 		(unit 1)
@@ -7457,7 +7785,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3b04a066-8bab-47c7-b985-1f35d3ca8e1a")
-		(property "Reference" "#PWR021"
+		(property "Reference" "#PWR023"
 			(at 139.7 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -7517,7 +7845,7 @@
 		(instances
 			(project "openFMS"
 				(path "/aaeea2c7-bc98-41b6-aa73-c4db520b2dfb"
-					(reference "#PWR021")
+					(reference "#PWR023")
 					(unit 1)
 				)
 			)
@@ -7691,6 +8019,88 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 125.73 251.46 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3c576571-85ad-4b8a-a9fb-1d9bf6dde8dd")
+		(property "Reference" "R8"
+			(at 128.27 250.1899 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10k"
+			(at 128.27 252.7299 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 123.952 251.46 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 125.73 251.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 125.73 251.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "6d98846e-3f6f-491d-9585-97f99a1ae127")
+		)
+		(pin "1"
+			(uuid "304ff80a-7789-4041-bcfd-8009fcbe6725")
+		)
+		(instances
+			(project "openFMS"
+				(path "/aaeea2c7-bc98-41b6-aa73-c4db520b2dfb"
+					(reference "R8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Diode:BZV55B2V4")
 		(at 29.21 120.65 270)
 		(unit 1)
@@ -7773,6 +8183,91 @@
 		)
 	)
 	(symbol
+		(lib_id "Transistor_MOSFET_AKL:BSS138L")
+		(at 123.19 236.22 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3cfa690c-83fe-4989-af85-545de46296bf")
+		(property "Reference" "VT4"
+			(at 129.54 234.9499 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "BSS138L"
+			(at 129.54 237.4899 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_SMD_AKL:SOT-23"
+			(at 128.27 233.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.tme.eu/Document/0c1bf10dadd727e5fb93da2f32f9c3ae/BSS138L.PDF"
+			(at 123.19 236.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "SOT-23 N-MOSFET enchancement mode transistor, 50V, 200mA, 225mW, Alternate KiCAD Library"
+			(at 123.19 236.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "02a70a78-8f5b-4e61-992b-a93399b39c80")
+		)
+		(pin "2"
+			(uuid "648459da-f27f-4eac-9f87-c229d8e74cdc")
+		)
+		(pin "3"
+			(uuid "0c68e0cb-f83d-4370-8fcb-0ff4dc5d6271")
+		)
+		(instances
+			(project "openFMS"
+				(path "/aaeea2c7-bc98-41b6-aa73-c4db520b2dfb"
+					(reference "VT4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 387.35 55.88 0)
 		(unit 1)
@@ -7784,7 +8279,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3df5f393-664b-4834-9ded-8c6c8cd5d54c")
-		(property "Reference" "R15"
+		(property "Reference" "R17"
 			(at 389.89 54.6099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7848,7 +8343,7 @@
 		(instances
 			(project "openFMS"
 				(path "/aaeea2c7-bc98-41b6-aa73-c4db520b2dfb"
-					(reference "R15")
+					(reference "R17")
 					(unit 1)
 				)
 			)
@@ -8450,7 +8945,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "53660144-38a1-4f8d-a301-d5d174cca7da")
-		(property "Reference" "#PWR028"
+		(property "Reference" "#PWR032"
 			(at 265.43 209.55 0)
 			(hide yes)
 			(show_name no)
@@ -8510,7 +9005,7 @@
 		(instances
 			(project "openFMS"
 				(path "/aaeea2c7-bc98-41b6-aa73-c4db520b2dfb"
-					(reference "#PWR028")
+					(reference "#PWR032")
 					(unit 1)
 				)
 			)
@@ -8610,7 +9105,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "54c991cd-cb18-462f-90c3-77a82e6501ca")
-		(property "Reference" "#PWR031"
+		(property "Reference" "#PWR035"
 			(at 287.02 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -8670,7 +9165,7 @@
 		(instances
 			(project "openFMS"
 				(path "/aaeea2c7-bc98-41b6-aa73-c4db520b2dfb"
-					(reference "#PWR031")
+					(reference "#PWR035")
 					(unit 1)
 				)
 			)
@@ -8688,7 +9183,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "57b06c75-4e05-48b3-9454-22802e270a77")
-		(property "Reference" "#PWR024"
+		(property "Reference" "#PWR026"
 			(at 166.37 210.82 0)
 			(hide yes)
 			(show_name no)
@@ -8748,7 +9243,7 @@
 		(instances
 			(project "openFMS"
 				(path "/aaeea2c7-bc98-41b6-aa73-c4db520b2dfb"
-					(reference "#PWR024")
+					(reference "#PWR026")
 					(unit 1)
 				)
 			)
@@ -8766,7 +9261,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "59dc0e2c-58fd-462d-9cb2-8278c2174f2d")
-		(property "Reference" "#PWR033"
+		(property "Reference" "#PWR037"
 			(at 309.88 146.05 0)
 			(hide yes)
 			(show_name no)
@@ -8826,7 +9321,89 @@
 		(instances
 			(project "openFMS"
 				(path "/aaeea2c7-bc98-41b6-aa73-c4db520b2dfb"
-					(reference "#PWR033")
+					(reference "#PWR037")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 166.37 251.46 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5ae21559-f7b3-40fb-b23e-43de231d9e65")
+		(property "Reference" "R10"
+			(at 168.91 250.1899 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10k"
+			(at 168.91 252.7299 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 164.592 251.46 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 166.37 251.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 166.37 251.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "4ae0f102-43a2-473a-8277-654c3f3ebe57")
+		)
+		(pin "1"
+			(uuid "a660a072-afd7-4766-aa94-cabee1e2a1e3")
+		)
+		(instances
+			(project "openFMS"
+				(path "/aaeea2c7-bc98-41b6-aa73-c4db520b2dfb"
+					(reference "R10")
 					(unit 1)
 				)
 			)
@@ -8844,7 +9421,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5c2fccd5-f1c4-4cb1-a707-848b1dab591a")
-		(property "Reference" "#PWR037"
+		(property "Reference" "#PWR041"
 			(at 321.31 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -8904,7 +9481,7 @@
 		(instances
 			(project "openFMS"
 				(path "/aaeea2c7-bc98-41b6-aa73-c4db520b2dfb"
-					(reference "#PWR037")
+					(reference "#PWR041")
 					(unit 1)
 				)
 			)
@@ -8922,7 +9499,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5cb3b25f-9982-4012-8536-91330eff71ad")
-		(property "Reference" "#PWR025"
+		(property "Reference" "#PWR029"
 			(at 256.54 38.1 0)
 			(hide yes)
 			(show_name no)
@@ -8982,7 +9559,7 @@
 		(instances
 			(project "openFMS"
 				(path "/aaeea2c7-bc98-41b6-aa73-c4db520b2dfb"
-					(reference "#PWR025")
+					(reference "#PWR029")
 					(unit 1)
 				)
 			)
@@ -9078,7 +9655,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5f3e35a8-ee60-48e4-bbb4-977dd5fd0f26")
-		(property "Reference" "#PWR023"
+		(property "Reference" "#PWR025"
 			(at 166.37 173.99 0)
 			(hide yes)
 			(show_name no)
@@ -9138,7 +9715,85 @@
 		(instances
 			(project "openFMS"
 				(path "/aaeea2c7-bc98-41b6-aa73-c4db520b2dfb"
-					(reference "#PWR023")
+					(reference "#PWR025")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GNDREF")
+		(at 125.73 259.08 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "632c3b15-f7db-4a31-8e66-b5aa39748a56")
+		(property "Reference" "#PWR021"
+			(at 125.73 265.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 125.73 264.16 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 125.73 259.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 125.73 259.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GNDREF\" , reference supply ground"
+			(at 125.73 259.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "bbd60662-cb3f-4877-9de0-fc71a8e8af32")
+		)
+		(instances
+			(project "openFMS"
+				(path "/aaeea2c7-bc98-41b6-aa73-c4db520b2dfb"
+					(reference "#PWR021")
 					(unit 1)
 				)
 			)
@@ -9156,7 +9811,7 @@
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "638e2ad3-d6fc-46d3-81d8-ac09b0155676")
-		(property "Reference" "R14"
+		(property "Reference" "R16"
 			(at 389.89 40.6399 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9220,7 +9875,7 @@
 		(instances
 			(project "openFMS"
 				(path "/aaeea2c7-bc98-41b6-aa73-c4db520b2dfb"
-					(reference "R14")
+					(reference "R16")
 					(unit 1)
 				)
 			)
@@ -9568,7 +10223,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6ff6d224-db26-4838-9ff5-3a23db06674a")
-		(property "Reference" "#PWR044"
+		(property "Reference" "#PWR048"
 			(at 387.35 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -9628,7 +10283,7 @@
 		(instances
 			(project "openFMS"
 				(path "/aaeea2c7-bc98-41b6-aa73-c4db520b2dfb"
-					(reference "#PWR044")
+					(reference "#PWR048")
 					(unit 1)
 				)
 			)
@@ -9806,7 +10461,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7dbca089-f897-43b6-8bb5-2da3ecea96b1")
-		(property "Reference" "#PWR030"
+		(property "Reference" "#PWR034"
 			(at 281.94 209.55 0)
 			(hide yes)
 			(show_name no)
@@ -9866,7 +10521,7 @@
 		(instances
 			(project "openFMS"
 				(path "/aaeea2c7-bc98-41b6-aa73-c4db520b2dfb"
-					(reference "#PWR030")
+					(reference "#PWR034")
 					(unit 1)
 				)
 			)
@@ -9884,7 +10539,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7fbf62c3-fd42-43fe-ad99-f45a20d2a3cc")
-		(property "Reference" "#PWR022"
+		(property "Reference" "#PWR024"
 			(at 139.7 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -9944,7 +10599,7 @@
 		(instances
 			(project "openFMS"
 				(path "/aaeea2c7-bc98-41b6-aa73-c4db520b2dfb"
-					(reference "#PWR022")
+					(reference "#PWR024")
 					(unit 1)
 				)
 			)
@@ -10127,7 +10782,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "907ded43-264a-4ad5-aff6-09d9967fbeb3")
-		(property "Reference" "#PWR034"
+		(property "Reference" "#PWR038"
 			(at 313.69 196.85 0)
 			(hide yes)
 			(show_name no)
@@ -10187,7 +10842,7 @@
 		(instances
 			(project "openFMS"
 				(path "/aaeea2c7-bc98-41b6-aa73-c4db520b2dfb"
-					(reference "#PWR034")
+					(reference "#PWR038")
 					(unit 1)
 				)
 			)
@@ -10302,7 +10957,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "961f9749-343a-4fbf-81b5-5c84cf93e09f")
-		(property "Reference" "R11"
+		(property "Reference" "R13"
 			(at 280.67 48.26 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10364,7 +11019,7 @@
 		(instances
 			(project "openFMS"
 				(path "/aaeea2c7-bc98-41b6-aa73-c4db520b2dfb"
-					(reference "R11")
+					(reference "R13")
 					(unit 1)
 				)
 			)
@@ -10464,7 +11119,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9da953a1-3f90-472c-bb31-9a5e843d3654")
-		(property "Reference" "#PWR039"
+		(property "Reference" "#PWR043"
 			(at 335.28 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -10524,7 +11179,7 @@
 		(instances
 			(project "openFMS"
 				(path "/aaeea2c7-bc98-41b6-aa73-c4db520b2dfb"
-					(reference "#PWR039")
+					(reference "#PWR043")
 					(unit 1)
 				)
 			)
@@ -10624,7 +11279,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a9c8e24e-434b-4c16-a04f-4e299f5b6835")
-		(property "Reference" "#PWR035"
+		(property "Reference" "#PWR039"
 			(at 314.96 228.6 0)
 			(hide yes)
 			(show_name no)
@@ -10684,7 +11339,7 @@
 		(instances
 			(project "openFMS"
 				(path "/aaeea2c7-bc98-41b6-aa73-c4db520b2dfb"
-					(reference "#PWR035")
+					(reference "#PWR039")
 					(unit 1)
 				)
 			)
@@ -10767,6 +11422,91 @@
 			(project "openFMS"
 				(path "/aaeea2c7-bc98-41b6-aa73-c4db520b2dfb"
 					(reference "R6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Transistor_MOSFET_AKL:BSS138L")
+		(at 163.83 236.22 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b1bc0bd0-c701-410c-bacb-4ee7f518c3ae")
+		(property "Reference" "VT6"
+			(at 170.18 234.9499 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "BSS138L"
+			(at 170.18 237.4899 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_SMD_AKL:SOT-23"
+			(at 168.91 233.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.tme.eu/Document/0c1bf10dadd727e5fb93da2f32f9c3ae/BSS138L.PDF"
+			(at 163.83 236.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "SOT-23 N-MOSFET enchancement mode transistor, 50V, 200mA, 225mW, Alternate KiCAD Library"
+			(at 163.83 236.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "83797711-a327-495b-aac2-7a82059a91dd")
+		)
+		(pin "2"
+			(uuid "8dbf631e-5428-4da5-b240-72d2a136d149")
+		)
+		(pin "3"
+			(uuid "6a79af25-68a8-4c4e-8a63-1c059553958c")
+		)
+		(instances
+			(project "openFMS"
+				(path "/aaeea2c7-bc98-41b6-aa73-c4db520b2dfb"
+					(reference "VT6")
 					(unit 1)
 				)
 			)
@@ -10948,7 +11688,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b92387df-d306-43a4-99e6-1070d60db766")
-		(property "Reference" "R16"
+		(property "Reference" "R18"
 			(at 389.89 171.4499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11012,7 +11752,7 @@
 		(instances
 			(project "openFMS"
 				(path "/aaeea2c7-bc98-41b6-aa73-c4db520b2dfb"
-					(reference "R16")
+					(reference "R18")
 					(unit 1)
 				)
 			)
@@ -11030,7 +11770,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bcf474e3-73fa-4082-99bc-dac185666021")
-		(property "Reference" "R12"
+		(property "Reference" "R14"
 			(at 284.48 194.3099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11094,7 +11834,85 @@
 		(instances
 			(project "openFMS"
 				(path "/aaeea2c7-bc98-41b6-aa73-c4db520b2dfb"
-					(reference "R12")
+					(reference "R14")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GNDREF")
+		(at 166.37 259.08 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "bdbb722e-0373-42b4-a9a7-6fafdc62894b")
+		(property "Reference" "#PWR028"
+			(at 166.37 265.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 166.37 264.16 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 166.37 259.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 166.37 259.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GNDREF\" , reference supply ground"
+			(at 166.37 259.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "907b9c29-bd99-4311-a8ca-585952df0808")
+		)
+		(instances
+			(project "openFMS"
+				(path "/aaeea2c7-bc98-41b6-aa73-c4db520b2dfb"
+					(reference "#PWR028")
 					(unit 1)
 				)
 			)
@@ -11273,7 +12091,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c747a914-5eec-4a99-8b8b-19e5b980220f")
-		(property "Reference" "#PWR043"
+		(property "Reference" "#PWR047"
 			(at 387.35 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -11333,7 +12151,7 @@
 		(instances
 			(project "openFMS"
 				(path "/aaeea2c7-bc98-41b6-aa73-c4db520b2dfb"
-					(reference "#PWR043")
+					(reference "#PWR047")
 					(unit 1)
 				)
 			)
@@ -11351,7 +12169,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c8668375-6976-4ea1-b25f-2143b80071b1")
-		(property "Reference" "#PWR029"
+		(property "Reference" "#PWR033"
 			(at 281.94 179.07 0)
 			(hide yes)
 			(show_name no)
@@ -11411,7 +12229,7 @@
 		(instances
 			(project "openFMS"
 				(path "/aaeea2c7-bc98-41b6-aa73-c4db520b2dfb"
-					(reference "#PWR029")
+					(reference "#PWR033")
 					(unit 1)
 				)
 			)
@@ -11595,7 +12413,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cf755d18-7dfb-45ef-90e8-f472ccda72e4")
-		(property "Reference" "R17"
+		(property "Reference" "R19"
 			(at 398.78 171.4499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11659,7 +12477,7 @@
 		(instances
 			(project "openFMS"
 				(path "/aaeea2c7-bc98-41b6-aa73-c4db520b2dfb"
-					(reference "R17")
+					(reference "R19")
 					(unit 1)
 				)
 			)
@@ -11755,7 +12573,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d439b4c7-b872-4761-9665-56e75ffae1de")
-		(property "Reference" "#PWR036"
+		(property "Reference" "#PWR040"
 			(at 314.96 243.84 0)
 			(hide yes)
 			(show_name no)
@@ -11815,7 +12633,7 @@
 		(instances
 			(project "openFMS"
 				(path "/aaeea2c7-bc98-41b6-aa73-c4db520b2dfb"
-					(reference "#PWR036")
+					(reference "#PWR040")
 					(unit 1)
 				)
 			)
@@ -11833,7 +12651,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d572944e-43ad-40ce-b0fc-91e85014eae9")
-		(property "Reference" "#PWR026"
+		(property "Reference" "#PWR030"
 			(at 256.54 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -11893,7 +12711,7 @@
 		(instances
 			(project "openFMS"
 				(path "/aaeea2c7-bc98-41b6-aa73-c4db520b2dfb"
-					(reference "#PWR026")
+					(reference "#PWR030")
 					(unit 1)
 				)
 			)
@@ -11993,7 +12811,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d6e434d5-ca7c-4076-bdf5-8ae3a1aaa120")
-		(property "Reference" "#PWR032"
+		(property "Reference" "#PWR036"
 			(at 292.1 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -12053,7 +12871,7 @@
 		(instances
 			(project "openFMS"
 				(path "/aaeea2c7-bc98-41b6-aa73-c4db520b2dfb"
-					(reference "#PWR032")
+					(reference "#PWR036")
 					(unit 1)
 				)
 			)
@@ -12071,7 +12889,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d734b883-909f-4e79-9e3e-9db9b8344d40")
-		(property "Reference" "R9"
+		(property "Reference" "R11"
 			(at 259.08 40.6399 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12135,7 +12953,7 @@
 		(instances
 			(project "openFMS"
 				(path "/aaeea2c7-bc98-41b6-aa73-c4db520b2dfb"
-					(reference "R9")
+					(reference "R11")
 					(unit 1)
 				)
 			)
@@ -12529,7 +13347,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dc7d849d-9164-4469-b28a-29ec687150d7")
-		(property "Reference" "VT4"
+		(property "Reference" "VT5"
 			(at 170.18 180.3399 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12596,7 +13414,7 @@
 		(instances
 			(project "openFMS"
 				(path "/aaeea2c7-bc98-41b6-aa73-c4db520b2dfb"
-					(reference "VT4")
+					(reference "VT5")
 					(unit 1)
 				)
 			)
@@ -12855,7 +13673,7 @@
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "e8f66abc-a8c3-4317-8739-b2ee3f11a20c")
-		(property "Reference" "R13"
+		(property "Reference" "R15"
 			(at 374.65 68.5799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12919,7 +13737,7 @@
 		(instances
 			(project "openFMS"
 				(path "/aaeea2c7-bc98-41b6-aa73-c4db520b2dfb"
-					(reference "R13")
+					(reference "R15")
 					(unit 1)
 				)
 			)
@@ -13093,7 +13911,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f1c6737a-0621-475f-aeb2-73ca6f55ffc4")
-		(property "Reference" "#PWR038"
+		(property "Reference" "#PWR042"
 			(at 321.31 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -13153,7 +13971,7 @@
 		(instances
 			(project "openFMS"
 				(path "/aaeea2c7-bc98-41b6-aa73-c4db520b2dfb"
-					(reference "#PWR038")
+					(reference "#PWR042")
 					(unit 1)
 				)
 			)
@@ -13249,7 +14067,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fbbb8d18-8241-439b-a041-cf0c53a18091")
-		(property "Reference" "#PWR046"
+		(property "Reference" "#PWR050"
 			(at 396.24 165.1 0)
 			(hide yes)
 			(show_name no)
@@ -13309,7 +14127,7 @@
 		(instances
 			(project "openFMS"
 				(path "/aaeea2c7-bc98-41b6-aa73-c4db520b2dfb"
-					(reference "#PWR046")
+					(reference "#PWR050")
 					(unit 1)
 				)
 			)
@@ -13327,7 +14145,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fc01e146-7012-445c-9ed2-a97e6630c690")
-		(property "Reference" "#PWR020"
+		(property "Reference" "#PWR022"
 			(at 139.7 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -13387,7 +14205,7 @@
 		(instances
 			(project "openFMS"
 				(path "/aaeea2c7-bc98-41b6-aa73-c4db520b2dfb"
-					(reference "#PWR020")
+					(reference "#PWR022")
 					(unit 1)
 				)
 			)
@@ -13405,7 +14223,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "feae1670-98c6-4590-af37-c911aa87f313")
-		(property "Reference" "#PWR041"
+		(property "Reference" "#PWR045"
 			(at 360.68 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -13465,7 +14283,7 @@
 		(instances
 			(project "openFMS"
 				(path "/aaeea2c7-bc98-41b6-aa73-c4db520b2dfb"
-					(reference "#PWR041")
+					(reference "#PWR045")
 					(unit 1)
 				)
 			)
