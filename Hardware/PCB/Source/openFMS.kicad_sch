@@ -5549,7 +5549,7 @@
 	)
 	(wire
 		(pts
-			(xy 381 165.1) (xy 370.84 165.1)
+			(xy 384.81 165.1) (xy 370.84 165.1)
 		)
 		(stroke
 			(width 0)
@@ -6137,16 +6137,6 @@
 		)
 		(uuid "33106dbf-8572-406b-bc8e-1080451fb517")
 	)
-	(label "FILAMENT_SIG"
-		(at 384.81 162.56 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "350157a4-2438-4051-bfa9-7857cc61cc04")
-	)
 	(label "SWDIO"
 		(at 314.96 231.14 180)
 		(effects
@@ -6198,14 +6188,14 @@
 		(uuid "58cc1b3a-7b1b-4496-bfef-16416ad21e9b")
 	)
 	(label "HALL_OUT"
-		(at 381 165.1 180)
+		(at 384.81 160.02 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right bottom)
 		)
-		(uuid "5b215c71-adf0-40c2-9ab1-398f5c1dfc9e")
+		(uuid "5e3adb59-55d1-4cf1-a3b0-7fe933bfa041")
 	)
 	(label "MOTION_SENS"
 		(at 140.97 189.23 180)
@@ -6237,6 +6227,16 @@
 		)
 		(uuid "7bbe4c33-ec98-4e4a-bb6b-d77274cfd0e7")
 	)
+	(label "MOTION_SIG"
+		(at 384.81 162.56 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "83fe37d2-e5db-4fdb-b4b2-b28e23941214")
+	)
 	(label "SWDIO"
 		(at 382.27 185.42 180)
 		(effects
@@ -6266,16 +6266,6 @@
 			(justify right bottom)
 		)
 		(uuid "9dda5f09-b403-4ea4-88a1-fb83f7057a67")
-	)
-	(label "MOTION_SIG"
-		(at 384.81 160.02 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "a23aec34-258b-4283-ba6c-028acdc9d8da")
 	)
 	(label "I2C_SDA"
 		(at 382.27 182.88 180)
@@ -6366,6 +6356,16 @@
 			(justify right bottom)
 		)
 		(uuid "d0a618ee-a9fa-455b-a0f3-c5adc02c3000")
+	)
+	(label "FILAMENT_SIG"
+		(at 384.81 165.1 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "d8290df7-c278-4610-91b5-3b906d0baae4")
 	)
 	(label "SWCLK"
 		(at 314.96 233.68 180)
