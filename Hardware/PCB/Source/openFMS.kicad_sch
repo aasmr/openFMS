@@ -6107,16 +6107,6 @@
 		)
 		(uuid "1e3f8e7f-c9f6-44f6-8415-16de89748218")
 	)
-	(label "PA4"
-		(at 382.27 170.18 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "270c5200-dea9-4d08-9748-7ac7d177d52e")
-	)
 	(label "MOTION_SIG"
 		(at 104.14 182.88 0)
 		(effects
@@ -6197,6 +6187,16 @@
 		)
 		(uuid "5e3adb59-55d1-4cf1-a3b0-7fe933bfa041")
 	)
+	(label "PA4"
+		(at 382.27 167.64 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "655e8d85-58d0-46c8-b954-2ed67202d26e")
+	)
 	(label "MOTION_SENS"
 		(at 140.97 189.23 180)
 		(effects
@@ -6227,15 +6227,15 @@
 		)
 		(uuid "7bbe4c33-ec98-4e4a-bb6b-d77274cfd0e7")
 	)
-	(label "MOTION_SIG"
-		(at 384.81 162.56 180)
+	(label "PA3"
+		(at 382.27 170.18 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right bottom)
 		)
-		(uuid "83fe37d2-e5db-4fdb-b4b2-b28e23941214")
+		(uuid "82bc28a8-ef95-4562-a662-6497dbb4d85a")
 	)
 	(label "SWDIO"
 		(at 382.27 185.42 180)
@@ -6256,6 +6256,16 @@
 			(justify right bottom)
 		)
 		(uuid "88ba5b57-236b-4ba8-ba33-b46f56105b6a")
+	)
+	(label "FILAMENT_SIG"
+		(at 384.81 162.56 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "97ab86af-9f40-42a1-9e0b-62b8a71bc9cb")
 	)
 	(label "PA3_SIG"
 		(at 82.55 31.75 180)
@@ -6296,16 +6306,6 @@
 			(justify right bottom)
 		)
 		(uuid "ba248fcf-2e6a-4329-8555-5b5acb5cefca")
-	)
-	(label "PA3"
-		(at 382.27 167.64 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "bf432d00-9ec5-42b3-99fd-85fe08ad47ea")
 	)
 	(label "NRST"
 		(at 275.59 186.69 180)
@@ -6357,16 +6357,6 @@
 		)
 		(uuid "d0a618ee-a9fa-455b-a0f3-c5adc02c3000")
 	)
-	(label "FILAMENT_SIG"
-		(at 384.81 165.1 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "d8290df7-c278-4610-91b5-3b906d0baae4")
-	)
 	(label "SWCLK"
 		(at 314.96 233.68 180)
 		(effects
@@ -6376,6 +6366,16 @@
 			(justify right bottom)
 		)
 		(uuid "e4b3baa1-bd4e-4c4a-b72b-e3be70de24f0")
+	)
+	(label "MOTION_SIG"
+		(at 384.81 165.1 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "eb80153c-ab87-4560-acfe-a55765dc10e8")
 	)
 	(label "SWCLK"
 		(at 382.27 187.96 180)
